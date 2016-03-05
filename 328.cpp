@@ -1,4 +1,4 @@
-clas Solution {
+class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(!head) return head;
@@ -21,6 +21,7 @@ public:
             point1=point2;
         }
         oddLast->next=evenHead->next;
-        return oddHead->next;
+        return oddHead->nex;
     }
 };
+
