@@ -6,7 +6,7 @@ public:
         int point=1;
         int i=1;
         while(i<nums.size()){
-            if(nums[i]!=nums[i-1]){
+            if(nums[i]!=nums[point-1]){
                 nums[point]=nums[i];
                 ++i;
                 ++point;
