@@ -1,5 +1,5 @@
-#leetcode_answer
-本文档用来存放leetcode个人解题答案<br />
-欢迎补充各种高效算法<br />
-This document is used to store leetcode individual answers by myself.<br />
-Welcome to add various algorithms
+# Leetcode答案集  ![Language](https://img.shields.io/badge/Language-JavaScript-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+----------
+## 关于项目：
+本项目包含本人LeetCode解题的答案，全部将由JavaScript语言进行解答。并会在每个题目的文件夹中添加相关的思路解析。
