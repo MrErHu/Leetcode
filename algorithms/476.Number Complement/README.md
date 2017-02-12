@@ -6,6 +6,7 @@
 
 1. 给定的整数保证为32位有符号整数
 
+
 2. 可以假设整数的二进制表示中没有前导零位
 
 ---
@@ -25,7 +26,7 @@
 
 >Output: 0
 
->
-Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
+>Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
 Subscribe to see which companies asked this question
 
+---
