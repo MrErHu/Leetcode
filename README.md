@@ -9,6 +9,7 @@
 7 | Reverse Integer| JavaScript| O(n) | O(1)|Easy|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(1)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
+160 |Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 237 | Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
