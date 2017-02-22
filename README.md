@@ -7,6 +7,7 @@
 \# | Title | Solution| Time| Space | Difficulty|
 ----|------|---------|-----|-------|-----------|
 7 | Reverse Integer| JavaScript| O(n) | O(1)|Easy|
+21 | Merge Two Sorted Lists| JavaScript| O(n) | O(1)|Easy|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(1)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 160 |Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
