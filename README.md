@@ -11,6 +11,7 @@
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 160 |Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 203 |Remove Linked List Elements| JavaScript| O(n) | O(1)|Easy|
+206 |206. Reverse Linked List| JavaScript| O(n)/O(n) | O(1)/O(n)|Easy|
 234 |Palindrome Linked List| JavaScript| O(n) | O(1)|Easy|
 237 | Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
