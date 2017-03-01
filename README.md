@@ -6,6 +6,7 @@
 ## 详情
 \# | Title | Solution| Time| Space | Difficulty|
 ----|------|---------|-----|-------|-----------|
+2 | Add Two Numbers| JavaScript| O(n) | O(1)|Medium|
 7 | Reverse Integer| JavaScript| O(n) | O(1)|Easy|
 21 | Merge Two Sorted Lists| JavaScript| O(n) | O(1)|Easy|
 61 | Rotate List| JavaScript| O(n) | O(1)|Medium|
