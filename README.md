@@ -20,6 +20,7 @@
 445 |Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
-617|Merge Two Binary Trees| JavaScript| O(n) | O(lgn)|Easy|
+561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
+617|Merge Two Binary Trees| JavaScript| O(nlgn) | O(1)|Easy|
 
 
