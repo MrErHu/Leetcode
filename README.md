@@ -13,6 +13,7 @@
 19 | Remove Nth Node From End of List| JavaScript| O(n) | O(1)|Medium|
 21 | Merge Two Sorted Lists| JavaScript| O(n) | O(1)|Easy|
 26 | Remove Duplicates from Sorted Array | JavaScript| O(n) | O(1)|Easy|
+27 | Remove Element | JavaScript| O(n) | O(1)|Easy|
 61 | Rotate List| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(1)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
