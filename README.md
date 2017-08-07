@@ -6,7 +6,7 @@
 ## 详情
 \# | Title | Solution| Time| Space | Difficulty|
 ----|------|---------|-----|-------|-----------|
-1 | Two Sum| JavaScript| O(n * logn) | O(1)|Medium|
+1 | Two Sum| JavaScript| O(n * logn) / O(n) | O(1) / O(n)|easy|
 2 | Add Two Numbers| JavaScript| O(n) | O(1)|Medium|
 4 | Median of Two Sorted Arrays| JavaScript| O(log (m+n)) | O(1)|Hard|
 7 | Reverse Integer| JavaScript| O(n) | O(1)|Easy|
