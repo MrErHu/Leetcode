@@ -6,6 +6,7 @@
 ## 详情
 \# | Title | Solution| Time| Space | Difficulty|
 ----|------|---------|-----|-------|-----------|
+1 | Two Sum| JavaScript| O(n * logn) | O(1)|Medium|
 2 | Add Two Numbers| JavaScript| O(n) | O(1)|Medium|
 4 | Median of Two Sorted Arrays| JavaScript| O(log (m+n)) | O(1)|Hard|
 7 | Reverse Integer| JavaScript| O(n) | O(1)|Easy|
@@ -28,6 +29,6 @@
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
 561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
-617|Merge Two Binary Trees| JavaScript| O(nlgn) | O(1)|Easy|
+617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
 
 
