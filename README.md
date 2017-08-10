@@ -18,12 +18,13 @@
 54 | Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
 61 | Rotate List| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(1)|Easy|
+110 | Balanced Binary Tree| JavaScript| O(n) | O(n)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 142 | Linked List Cycle II| JavaScript| O(n) | O(1)|Medium|
 160 |Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 203 |Remove Linked List Elements| JavaScript| O(n) | O(1)|Easy|
 206 |Reverse Linked List| JavaScript| O(n)/O(n) | O(1)/O(n)|Easy|
-226 |Invert Binary Tree| JavaScript| O(n) | O(logn)|Easy|
+226 |Invert Binary Tree| JavaScript| O(n) | O(n)|Easy|
 234 |Palindrome Linked List| JavaScript| O(n) | O(1)|Easy|
 237 | Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
 445 |Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
