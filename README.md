@@ -18,6 +18,7 @@
 54 | Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
 61 | Rotate List| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(1)|Easy|
+101 | Symmetric Tree| JavaScript| O(n) | O(n)|Easy|
 110 | Balanced Binary Tree| JavaScript| O(n) | O(n)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 142 | Linked List Cycle II| JavaScript| O(n) | O(1)|Medium|
@@ -32,5 +33,3 @@
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
 561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
 617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
-
-
