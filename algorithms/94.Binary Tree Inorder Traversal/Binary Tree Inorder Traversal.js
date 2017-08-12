@@ -24,3 +24,31 @@ var inorderTraversal = function(root) {
         traversal(root.right);
     }
 };
+
+/**
+ * Iteratively vision
+ * @param {TreeNode} root
+ * @return {number[]}
+ */
+var inorderTraversal = function(root) {
+
+    let cur = root;
+    const stack = [], result = [];
+
+    while (cur){
+        stack.push(cur);
+        cur = cur.left
+    }
+
+    while (stack.length > 0){
+        cur = stack.pop();
+        result.push(cur.val);
+        cur = cur.right;
+        while(cur){
+            stack.push(cur);
+            cur = cur.left
+        }
+    }
+
+    return result;
+};
