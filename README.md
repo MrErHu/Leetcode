@@ -24,6 +24,7 @@
 110 | Balanced Binary Tree| JavaScript| O(n) | O(n)|Easy|
 141 | Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 142 | Linked List Cycle II| JavaScript| O(n) | O(1)|Medium|
+144 | Binary Tree Preorder Traversal| JavaScript| O(n) | O(n)|Medium|
 160 |Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 203 |Remove Linked List Elements| JavaScript| O(n) | O(1)|Easy|
 206 |Reverse Linked List| JavaScript| O(n)/O(n) | O(1)/O(n)|Easy|
