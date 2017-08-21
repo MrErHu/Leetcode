@@ -43,6 +43,7 @@
 235|Lowest Common Ancestor of a Binary Search Tree| JavaScript| O(n) | O(1)|Easy|
 236|Lowest Common Ancestor of a Binary Search Tree| JavaScript| O(n) | O(n)|Medium|
 237| Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
+404|Sum of Left Leaves| JavaScript| O(n) | O(n)|Easy|
 437|Path Sum III| JavaScript| O(n) | O(n * logn)|Easy|
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
