@@ -49,3 +49,4 @@
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
 561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
 617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
+637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
