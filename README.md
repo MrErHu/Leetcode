@@ -39,6 +39,7 @@
 203|Remove Linked List Elements| JavaScript| O(n) | O(1)|Easy|
 206|Reverse Linked List| JavaScript| O(n)/O(n) | O(1)/O(n)|Easy|
 226|Invert Binary Tree| JavaScript| O(n) | O(n)|Easy|
+230|Kth Smallest Element in a BST| JavaScript| O(n) | O(n)|Medium|
 234|Palindrome Linked List| JavaScript| O(n) | O(1)|Easy|
 235|Lowest Common Ancestor of a Binary Search Tree| JavaScript| O(n) | O(1)|Easy|
 236|Lowest Common Ancestor of a Binary Search Tree| JavaScript| O(n) | O(n)|Medium|
