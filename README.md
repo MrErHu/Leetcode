@@ -51,6 +51,7 @@
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
 515|Find Largest Value in Each Tree Row| JavaScript| O(n) | O(n)|Medium|
+538|Convert BST to Greater Tree| JavaScript| O(n) | O(n)|Easy|
 543|Diameter of Binary Tree| JavaScript| O(n) | O(n)|Easy|
 561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
 563|Binary Tree Tilt| JavaScript| O(n) | O(n)|Easy|
