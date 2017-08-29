@@ -50,6 +50,7 @@
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
 476|Number Complement| JavaScript| O(1) | O(1)|Easy|
+501|Find Mode in Binary Search Tree| JavaScript| O(n) | O(n)|Easy|
 515|Find Largest Value in Each Tree Row| JavaScript| O(n) | O(n)|Medium|
 538|Convert BST to Greater Tree| JavaScript| O(n) | O(n)|Easy|
 543|Diameter of Binary Tree| JavaScript| O(n) | O(n)|Easy|
