@@ -56,6 +56,7 @@
 543|Diameter of Binary Tree| JavaScript| O(n) | O(n)|Easy|
 561|Array Partition I| JavaScript| O(n) | O(n)|Easy|
 563|Binary Tree Tilt| JavaScript| O(n) | O(n)|Easy|
+572|Subtree of Another Tree| JavaScript| O(n ^ 2) | O(n * n)|Easy|
 606|Construct String from Binary Tree| JavaScript| O(n) | O(n)|Easy|
 617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
 637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
