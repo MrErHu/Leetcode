@@ -65,3 +65,4 @@
 617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
 637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
 653|Two Sum IV - Input is a BST| JavaScript| O(n) | O(n)|Easy|
+662|Maximum Width of Binary Tree| JavaScript| O(n) | O(n)|Medium|
