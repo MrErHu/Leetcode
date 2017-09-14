@@ -70,6 +70,7 @@
 637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
 653|Two Sum IV - Input is a BST| JavaScript| O(n) | O(n)|Easy|
 654|Maximum Binary Tree| JavaScript| O(n * logn) | O(n)|Medium|
+655|Print Binary Tree| JavaScript| O(n) | O(n)|Medium|
 662|Maximum Width of Binary Tree| JavaScript| O(n) | O(n)|Medium|
 669|Trim a Binary Search Tree| JavaScript| O(n) | O(n)|Easy|
 671|Second Minimum Node In a Binary Tree| JavaScript| O(n) | O(n)|Easy|
