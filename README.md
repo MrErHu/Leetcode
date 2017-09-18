@@ -19,6 +19,7 @@
 61 | Rotate List| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(n)|Easy|
 94 |Binary Tree Inorder Traversal| JavaScript| O(n) | O(1)|Medium|
+95 |Unique Binary Search Trees II| JavaScript| O(n^ 2) | O(n)|Medium|
 96 |Unique Binary Search Trees| JavaScript| O(n ^ 2) | O(n)|Medium|
 98 |Validate Binary Search Tree| JavaScript| O(n) | O(n)|Medium|
 100|Same Tree| JavaScript| O(n) | O(n)|Easy|
