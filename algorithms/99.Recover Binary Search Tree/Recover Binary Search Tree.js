@@ -12,36 +12,24 @@
  */
 var recoverTree = function (root) {
 
-    const array = [];
-    traversal(root, (node) => {
-        array.push(node.val);
-    });
-
-    let num1, num2;
-
-    for (let i = 0; i < array.length - 1; i++) {
-        if (array[i] > array[i + 1]) {
-            num1 = array[i];
-            num2 = array[i + 1];
-            array[i + 1] = num1;
-            array[i] = num2;
-        }
-    }
-
-    let point1, point2;
+    let pre = null;
+    let cur = null;
+    let head, last, first = true;
 
     traversal(root, (node) => {
-        if (node.val == num1) {
-            point1 = node;
-        }
+        pre = cur;
+        cur = node;
 
-        if (node.val == num2) {
-            point2 = node;
+        if (pre && cur && pre.val > cur.val) {
+            if (first) {
+                head = pre;
+                first = false;
+            }
+            last = cur;
         }
     });
 
-    point1.val = num2;
-    point2.val = num1;
+    [last.val, head.val] = [head.val, last.val];
 
     function traversal(node, callback) {
         if (!node) {
@@ -51,4 +39,60 @@ var recoverTree = function (root) {
         callback(node);
         traversal(node.right, callback);
     }
+};
+
+
+/**
+ * Space O(n)
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {void} Do not return anything, modify root in-place instead.
+ */
+var recoverTree = function (root) {
+
+    let pre = null;
+    let cur = null;
+    let head, last, first = true;
+
+    inorderTraversal(root, (node) => {
+        pre = cur;
+        cur = node;
+
+        if (pre && cur && pre.val > cur.val) {
+            if (first) {
+                head = pre;
+                first = false;
+            }
+            last = cur;
+        }
+    });
+
+    [last.val, head.val] = [head.val, last.val];
+
+    function inorderTraversal(root, callback) {
+        let cur = root;
+        const stack = [];
+
+        while (cur) {
+            stack.push(cur);
+            cur = cur.left
+        }
+
+        while (stack.length > 0) {
+            cur = stack.pop();
+            callback(cur);
+            cur = cur.right;
+            while (cur) {
+                stack.push(cur);
+                cur = cur.left
+            }
+        }
+    }
+
 };
