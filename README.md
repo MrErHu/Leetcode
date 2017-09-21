@@ -22,6 +22,7 @@
 95 |Unique Binary Search Trees II| JavaScript| O(n^ 2) | O(n)|Medium|
 96 |Unique Binary Search Trees| JavaScript| O(n ^ 2) | O(n)|Medium|
 98 |Validate Binary Search Tree| JavaScript| O(n) | O(n)|Medium|
+99 |Recover Binary Search Tree| JavaScript| O(n) | O(1)|Hard|
 100|Same Tree| JavaScript| O(n) | O(n)|Easy|
 101| Symmetric Tree| JavaScript| O(n) | O(n)|Easy|
 102| Binary Tree Level Order Traversal| JavaScript| O(n) | O(n)|Medium|

@@ -94,5 +94,67 @@ var recoverTree = function (root) {
             }
         }
     }
-
 };
+
+/**
+ * Space O(1)
+ * Definition for a binary tree node.
+ * function TreeNode(val) {
+ *     this.val = val;
+ *     this.left = this.right = null;
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {void} Do not return anything, modify root in-place instead.
+ */
+var recoverTree = function (root) {
+
+    let pre = null;
+    let cur = null;
+    let head, last, first = true;
+
+    inorderTraversal(root, (node) => {
+        pre = cur;
+        cur = node;
+
+        if (pre && cur && pre.val > cur.val) {
+            if (first) {
+                head = pre;
+                first = false;
+            }
+            last = cur;
+        }
+    });
+
+    [last.val, head.val] = [head.val, last.val];
+
+    function inorderTraversal(root ,callback) {
+
+        let current = root;
+        let inOrderPre = null;
+
+        while (current){
+            if(current.left === null){
+                callback(current);
+                current = current.right;
+            }else{
+                //中序遍历的前驱节点
+                inOrderPre = current.left;
+                while (inOrderPre.right && inOrderPre.right != current){
+                    inOrderPre = inOrderPre.right;
+                }
+
+                if(inOrderPre.right === null){
+                    inOrderPre.right = current;
+                    current = current.left;
+                }else{
+                    inOrderPre.right = null;
+                    callback(current);
+                    current = current.right;
+                }
+            }
+        }
+    }
+};
+
