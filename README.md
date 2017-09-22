@@ -28,6 +28,7 @@
 102| Binary Tree Level Order Traversal| JavaScript| O(n) | O(n)|Medium|
 103| Binary Tree Zigzag Level Order Traversal| JavaScript| O(n) | O(n)|Medium|
 104| Maximum Depth of Binary Tree| JavaScript| O(n) | O(n)|Easy|
+105|  Construct Binary Tree from Preorder and Inorder Traversal| JavaScript| O(n) | O(n)|Medium|
 107| Binary Tree Level Order Traversal II| JavaScript| O(n) | O(n)|Easy|
 110| Balanced Binary Tree| JavaScript| O(n) | O(n)|Easy|
 111| Minimum Depth of Binary Tree| JavaScript| O(n) | O(n)|Easy|
