@@ -16,7 +16,8 @@
 26 |Remove Duplicates from Sorted Array | JavaScript| O(n) | O(1)|Easy|
 27 |Remove Element | JavaScript| O(n) | O(1)|Easy|
 54 |Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
-61 |Rotate List| JavaScript| O(n) | O(1)|Medium|
+61 |Rotate List| JavaScript| O(n + m) | O(1)|Medium|
+74 |Search a 2D Matrix| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(n)|Easy|
 94 |Binary Tree Inorder Traversal| JavaScript| O(n) | O(1)|Medium|
 95 |Unique Binary Search Trees II| JavaScript| O(n^ 2) | O(n)|Medium|
