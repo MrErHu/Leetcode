@@ -47,6 +47,7 @@
 144|Binary Tree Preorder Traversal| JavaScript| O(n) | O(n)|Medium|
 145|Binary Tree Postorder Traversal| JavaScript| O(n) | O(n)|Hard|
 153|Find Minimum in Rotated Sorted Array| JavaScript| O(logn) | O(1)|Medium|
+154|Find Minimum in Rotated Sorted Array II| JavaScript| O(n) | O(1)|Medium|
 160|Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 173|Binary Search Tree Iterator| JavaScript| O(n) | O(n)|Medium|
 199|Binary Tree Right Side View| JavaScript| O(n) | O(n)|Easy|
