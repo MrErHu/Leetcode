@@ -62,6 +62,7 @@
 237|Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
 240|Search a 2D Matrix II| JavaScript| O(m + n) | O(1)|Medium|
 257|Binary Tree Paths| JavaScript| O(n) | O(n)|Easy|
+287|Find the Duplicate Number| JavaScript| O(n * logn) | O(1)|Medium|
 297|Serialize and Deserialize Binary Tree| JavaScript| O(n) | O(n)|Hard|
 349|Intersection of Two Arrays| JavaScript| O(n) | O(n)|Easy|
 404|Sum of Left Leaves| JavaScript| O(n) | O(n)|Easy|
