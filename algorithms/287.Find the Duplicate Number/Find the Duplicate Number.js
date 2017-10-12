@@ -26,3 +26,33 @@ var findDuplicate = function (nums) {
     }
     return start;
 };
+
+
+
+/**
+ * LinkList
+ * Time: O(n)
+ * Space: O(1)
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findDuplicate = function(nums) {
+
+    let low = 0, fast = 0;
+
+    do{
+        low = nums[low];
+        fast = nums[nums[fast]];
+    }while (low != fast);
+
+
+    let point = 0;
+
+    while(point != low){
+        point = nums[point];
+        low = nums[low];
+    }
+
+    return point;
+
+};
