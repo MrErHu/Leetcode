@@ -14,7 +14,8 @@
 19 |Remove Nth Node From End of List| JavaScript| O(n) | O(1)|Medium|
 21 |Merge Two Sorted Lists| JavaScript| O(n) | O(1)|Easy|
 26 |Remove Duplicates from Sorted Array | JavaScript| O(n) | O(1)|Easy|
-27 |Remove Element | JavaScript| O(n) | O(1)|Easy|
+27 |Remove Element| JavaScript| O(n) | O(1)|Easy|
+33 |Search in Rotated Sorted Array| JavaScript|O(logn)|O(1)|Medium|
 54 |Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
 61 |Rotate List| JavaScript| O(n + m) | O(1)|Medium|
 74 |Search a 2D Matrix| JavaScript| O(n) | O(1)|Medium|
