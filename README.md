@@ -6,7 +6,7 @@
 ## 详情
 \# | Title | Solution| Time| Space | Difficulty|
 ----|------|---------|-----|-------|-----------|
-1  |Two Sum| JavaScript| O(n * logn) / O(n) | O(1) / O(n)|easy|
+1  |Two Sum| JavaScript| O(n * log n) / O(n) | O(1) / O(n)|easy|
 2  |Add Two Numbers| JavaScript| O(n) | O(1)|Medium|
 4  |Median of Two Sorted Arrays| JavaScript| O(log (m+n)) | O(1)|Hard|
 7  |Reverse Integer| JavaScript| O(n) | O(1)|Easy|
@@ -15,7 +15,8 @@
 21 |Merge Two Sorted Lists| JavaScript| O(n) | O(1)|Easy|
 26 |Remove Duplicates from Sorted Array | JavaScript| O(n) | O(1)|Easy|
 27 |Remove Element| JavaScript| O(n) | O(1)|Easy|
-33 |Search in Rotated Sorted Array| JavaScript|O(logn)|O(1)|Medium|
+33 |Search in Rotated Sorted Array| JavaScript|O(log n)|O(1)|Medium|
+34 |Search for a Range| JavaScript|O(log n)|O(1)|Medium|
 54 |Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
 61 |Rotate List| JavaScript| O(n + m) | O(1)|Medium|
 74 |Search a 2D Matrix| JavaScript| O(n) | O(1)|Medium|
@@ -47,7 +48,7 @@
 142|Linked List Cycle II| JavaScript| O(n) | O(1)|Medium|
 144|Binary Tree Preorder Traversal| JavaScript| O(n) | O(n)|Medium|
 145|Binary Tree Postorder Traversal| JavaScript| O(n) | O(n)|Hard|
-153|Find Minimum in Rotated Sorted Array| JavaScript| O(logn) | O(1)|Medium|
+153|Find Minimum in Rotated Sorted Array| JavaScript| O(log n) | O(1)|Medium|
 154|Find Minimum in Rotated Sorted Array II| JavaScript| O(n) | O(1)|Medium|
 160|Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 173|Binary Search Tree Iterator| JavaScript| O(n) | O(n)|Medium|
@@ -63,11 +64,11 @@
 237|Delete Node in a Linked List| JavaScript| O(1) | O(1)|Easy|
 240|Search a 2D Matrix II| JavaScript| O(m + n) | O(1)|Medium|
 257|Binary Tree Paths| JavaScript| O(n) | O(n)|Easy|
-287|Find the Duplicate Number| JavaScript|O(n * logn) / O(n)|O(1) / O(1)|Medium|
+287|Find the Duplicate Number| JavaScript|O(n * log n) / O(n)|O(1) / O(1)|Medium|
 297|Serialize and Deserialize Binary Tree| JavaScript| O(n) | O(n)|Hard|
 349|Intersection of Two Arrays| JavaScript| O(n) | O(n)|Easy|
 404|Sum of Left Leaves| JavaScript| O(n) | O(n)|Easy|
-437|Path Sum III| JavaScript| O(n) | O(n * logn)|Easy|
+437|Path Sum III| JavaScript| O(n) | O(n * log n)|Easy|
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
 449|Serialize and Deserialize BST| JavaScript| O(n) | O(n)|Medium|
 450|Delete Node in a BST| JavaScript| O(n) | O(1)|Medium|
@@ -83,12 +84,12 @@
 563|Binary Tree Tilt| JavaScript| O(n) | O(n)|Easy|
 572|Subtree of Another Tree| JavaScript| O(n ^ 2) | O(n * n)|Easy|
 606|Construct String from Binary Tree| JavaScript| O(n) | O(n)|Easy|
-617|Merge Two Binary Trees| JavaScript| O(n * logn) | O(1)|Easy|
+617|Merge Two Binary Trees| JavaScript| O(n * log n) | O(1)|Easy|
 623|Add One Row to Tree| JavaScript| O(n) | O(n)|Medium|
 637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
 652|Find Duplicate Subtrees| JavaScript| O(n ^ 2) | O(n ^ 2)|Medium|
 653|Two Sum IV - Input is a BST| JavaScript| O(n) | O(n)|Easy|
-654|Maximum Binary Tree| JavaScript| O(n * logn) | O(n)|Medium|
+654|Maximum Binary Tree| JavaScript| O(n * log n) | O(n)|Medium|
 655|Print Binary Tree| JavaScript| O(n) | O(n)|Medium|
 662|Maximum Width of Binary Tree| JavaScript| O(n) | O(n)|Medium|
 669|Trim a Binary Search Tree| JavaScript| O(n) | O(n)|Easy|
