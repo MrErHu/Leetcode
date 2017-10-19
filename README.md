@@ -69,6 +69,7 @@
 287|Find the Duplicate Number| JavaScript|O(n * log n) / O(n)|O(1) / O(1)|Medium|
 297|Serialize and Deserialize Binary Tree| JavaScript| O(n) | O(n)|Hard|
 349|Intersection of Two Arrays| JavaScript| O(n) | O(n)|Easy|
+378|Kth Smallest Element in a Sorted Matrix| JavaScript| O(n * log X) | O(1)|Medium|
 404|Sum of Left Leaves| JavaScript| O(n) | O(n)|Easy|
 437|Path Sum III| JavaScript| O(n) | O(n * log n)|Easy|
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
