@@ -43,8 +43,9 @@
 114|Flatten Binary Tree to Linked List| JavaScript| O(n) | O(n)|Medium|
 116|Populating Next Right Pointers in Each Node| JavaScript| O(n) | O(1)|Medium|
 117|Populating Next Right Pointers in Each Node II| JavaScript| O(n) | O(1)|Medium|
+118|Pascal's Triangle| JavaScript|O(n ^ 2)| O(1)|Easy|
 124|Binary Tree Maximum Path Sum| JavaScript| O(n) | O(n)|Hard|
-129|Sum Root to Leaf Numbers| JavaScript| O(n) | O(n)|Medium|
+129|Sum Root to Leaf Numbers|JavaScript| O(n) | O(n)|Medium|
 141|Linked List Cycle| JavaScript| O(n) | O(1)|Easy|
 142|Linked List Cycle II| JavaScript| O(n) | O(1)|Medium|
 144|Binary Tree Preorder Traversal| JavaScript| O(n) | O(n)|Medium|
