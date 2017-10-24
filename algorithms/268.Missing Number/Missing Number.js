@@ -13,3 +13,20 @@ var missingNumber = function (nums) {
     return sum - sum1;
 
 };
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var missingNumber = function (nums) {
+
+    var num = 0;
+
+    nums.forEach((value, index) => {
+
+        num ^= value ^ (index + 1);
+    })
+
+    return num;
+
+};
