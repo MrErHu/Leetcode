@@ -63,6 +63,7 @@
 209|Minimum Size Subarray Sum| JavaScript| O(n) | O(1)|Medium|
 222|Count Complete Tree Nodes| JavaScript| O(n) | O(n)|Medium|
 226|Invert Binary Tree| JavaScript| O(n) | O(n)|Easy|
+229|Majority Element II| JavaScript| O(n) | O(n)|Medium|
 230|Kth Smallest Element in a BST| JavaScript| O(n) | O(n)|Medium|
 234|Palindrome Linked List| JavaScript| O(n) | O(1)|Easy|
 235|Lowest Common Ancestor of a Binary Search Tree| JavaScript| O(n) | O(1)|Easy|
