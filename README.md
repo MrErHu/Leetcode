@@ -72,6 +72,7 @@
 240|Search a 2D Matrix II| JavaScript| O(m + n) | O(1)|Medium|
 257|Binary Tree Paths| JavaScript| O(n) | O(n)|Easy|
 268|Missing Number| JavaScript| O(n) | O(1)|Easy|
+283|Move Zeroes| JavaScript|O(n)|O(1)|Easy|
 287|Find the Duplicate Number| JavaScript|O(n * log n) / O(n)|O(1) / O(1)|Medium|
 297|Serialize and Deserialize Binary Tree| JavaScript| O(n) | O(n)|Hard|
 349|Intersection of Two Arrays| JavaScript| O(n) | O(n)|Easy|
