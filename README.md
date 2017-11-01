@@ -61,6 +61,7 @@
 203|Remove Linked List Elements| JavaScript| O(n) | O(1)|Easy|
 206|Reverse Linked List| JavaScript| O(n)/O(n) | O(1)/O(n)|Easy|
 209|Minimum Size Subarray Sum| JavaScript| O(n) | O(1)|Medium|
+217|Contains Duplicate| JavaScript| O(n) | O(n)|Easy|
 222|Count Complete Tree Nodes| JavaScript| O(n) | O(n)|Medium|
 226|Invert Binary Tree| JavaScript| O(n) | O(n)|Easy|
 229|Majority Element II| JavaScript| O(n) | O(n)|Medium|
