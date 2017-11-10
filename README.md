@@ -81,6 +81,7 @@
 378|Kth Smallest Element in a Sorted Matrix| JavaScript| O(n * log X) | O(1)|Medium|
 404|Sum of Left Leaves| JavaScript| O(n) | O(n)|Easy|
 437|Path Sum III| JavaScript| O(n) | O(n * log n)|Easy|
+442|Find All Duplicates in an Array| JavaScript| O(n) | O(1)|Medium|
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
 449|Serialize and Deserialize BST| JavaScript| O(n) | O(n)|Medium|
 450|Delete Node in a BST| JavaScript| O(n) | O(1)|Medium|
