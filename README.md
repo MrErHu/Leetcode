@@ -83,6 +83,7 @@
 437|Path Sum III| JavaScript| O(n) | O(n * log n)|Easy|
 442|Find All Duplicates in an Array| JavaScript| O(n) | O(1)|Medium|
 445|Add Two Numbers II| JavaScript| O(n) | O(1)|Medium|
+448|Find All Numbers Disappeared in an Array| JavaScript| O(n) | O(1)|Easy|
 449|Serialize and Deserialize BST| JavaScript| O(n) | O(n)|Medium|
 450|Delete Node in a BST| JavaScript| O(n) | O(1)|Medium|
 461|Hamming Distance| JavaScript| O(1) | O(1)|Easy|
