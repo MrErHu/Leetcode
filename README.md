@@ -109,3 +109,4 @@
 662|Maximum Width of Binary Tree| JavaScript| O(n) | O(n)|Medium|
 669|Trim a Binary Search Tree| JavaScript| O(n) | O(n)|Easy|
 671|Second Minimum Node In a Binary Tree| JavaScript| O(n) | O(n)|Easy|
+674|Longest Continuous Increasing Subsequence| JavaScript| O(n) | O(1)|Easy|
