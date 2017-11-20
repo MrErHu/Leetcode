@@ -20,10 +20,11 @@
 35 |Search Insert Position| JavaScript|O(log n)|O(1)|Easy|
 54 |Spiral Matrix| JavaScript| O(n * m) | O(1)|Medium|
 61 |Rotate List| JavaScript| O(n + m) | O(1)|Medium|
-74 |Search a 2D Matrix| JavaScript| O(n) | O(1)|Medium|
+74 |Search a 2D Matrix| JavaScript| O(n ^ 2) | O(n)|Medium|
+78 |Subsets| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(n)|Easy|
 94 |Binary Tree Inorder Traversal| JavaScript| O(n) | O(1)|Medium|
-95 |Unique Binary Search Trees II| JavaScript| O(n^ 2) | O(n)|Medium|
+95 |Unique Binary Search Trees II| JavaScript| O(Subsets) | O(n)|Medium|
 96 |Unique Binary Search Trees| JavaScript| O(n ^ 2) | O(n)|Medium|
 98 |Validate Binary Search Tree| JavaScript| O(n) | O(n)|Medium|
 99 |Recover Binary Search Tree| JavaScript| O(n) | O(1)|Hard|
