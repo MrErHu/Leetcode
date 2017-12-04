@@ -103,6 +103,7 @@
 617|Merge Two Binary Trees| JavaScript| O(n * log n) | O(1)|Easy|
 623|Add One Row to Tree| JavaScript| O(n) | O(n)|Medium|
 637|Average of Levels in Binary Tree| JavaScript| O(n) | O(n)|Easy|
+643|Maximum Average Subarray I| JavaScript| O(n) | O(1)|Easy|
 652|Find Duplicate Subtrees| JavaScript| O(n ^ 2) | O(n ^ 2)|Medium|
 653|Two Sum IV - Input is a BST| JavaScript| O(n) | O(n)|Easy|
 654|Maximum Binary Tree| JavaScript| O(n * log n) | O(n)|Medium|
