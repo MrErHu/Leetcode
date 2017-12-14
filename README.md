@@ -23,6 +23,7 @@
 74 |Search a 2D Matrix| JavaScript| O(n ^ 2) | O(n)|Medium|
 78 |Subsets| JavaScript| O(n) | O(1)|Medium|
 83 |Remove Duplicates from Sorted List| JavaScript| O(n) | O(n)|Easy|
+92 |Reverse Linked List II| JavaScript| O(n) | O(1)|Medium|
 94 |Binary Tree Inorder Traversal| JavaScript| O(n) | O(1)|Medium|
 95 |Unique Binary Search Trees II| JavaScript| O(Subsets) | O(n)|Medium|
 96 |Unique Binary Search Trees| JavaScript| O(n ^ 2) | O(n)|Medium|
