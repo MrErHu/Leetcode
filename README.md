@@ -55,6 +55,7 @@
 145|Binary Tree Postorder Traversal| JavaScript| O(n) | O(n)|Hard|
 153|Find Minimum in Rotated Sorted Array| JavaScript| O(log n) | O(1)|Medium|
 154|Find Minimum in Rotated Sorted Array II| JavaScript| O(n) | O(1)|Medium|
+155|Min Stack| JavaScript| O(1) | O(n)|Easy|
 160|Intersection of Two Linked Lists| JavaScript| O(n) | O(1)|Easy|
 167|Two Sum II - Input array is sorted| JavaScript| O(n) | O(1)|Easy|
 169|Majority Element| JavaScript| O(n) | O(1)|Easy|
